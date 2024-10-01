@@ -38,7 +38,7 @@ Estudiante de Ingeniería Civil en TI, desarrollador web e ingeniero de software
 Estoy buscando una posición **junior en desarrollo full stack** para continuar creciendo en áreas de **frontend** y **backend**, así como en **tecnologías de la nube**. Me encanta aprender y enfrentar desafíos que me permitan mejorar mis habilidades y contribuir a proyectos significativos.
 
 ## 📫 Conectemos
-- **LinkedIn**: [linkedin.com/in/USER](https://linkedin.com/in/aiarias)
+- **LinkedIn**: [linkedin.com/in/aiarias](https://linkedin.com/in/aiarias)
 - **GitHub**: [github.com/aiarias](https://github.com/aiarias)
 - **Correo**: [aiarias@uc.cl](mailto:aiarias@uc.cl)
 
