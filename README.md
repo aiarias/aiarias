@@ -3,7 +3,12 @@
 Estudiante de Ingeniería Civil en TI, desarrollador web e ingeniero de software, especializado en tecnologías **full stack** como **React**, **Node.js**, **PostgreSQL** y **MongoDB**. Tengo experiencia trabajando en proyectos universitarios y personales, aplicando herramientas modernas como **AWS**, **Docker**, y **React Native**. Me apasiona resolver problemas complejos, aprender nuevas tecnologías, y trabajar en equipo.
 
 
-## Tech Stack ![GIF Animado](https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966):
+## Tech Stack
+
+<p align="left">
+  <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="100" />
+</p>
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
