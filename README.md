@@ -10,4 +10,6 @@ Estudiante de Ingeniería Civil en TI, desarrollador web e ingeniero de software
 - **Bases de Datos**: PostgreSQL, MongoDB, MySQL
 - **DevOps**: Docker, AWS, Railway, Vercel, PlanetScale
 
-
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiarias&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aiarias&theme=radical)
