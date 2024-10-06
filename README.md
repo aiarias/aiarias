@@ -1,4 +1,4 @@
-# 👋 Hola, soy Agustín Arias
+# 👋 Hello, I'm Agustin Arias
 
 Estudiante de Ingeniería Civil en TI, desarrollador web e ingeniero de software, especializado en tecnologías **full stack** como **React**, **Node.js**, **PostgreSQL** y **MongoDB**. Tengo experiencia trabajando en proyectos universitarios y personales, aplicando herramientas modernas como **AWS**, **Docker**, y **React Native**. Me apasiona resolver problemas complejos, aprender nuevas tecnologías, y trabajar en equipo.
 
@@ -19,6 +19,13 @@ Estudiante de Ingeniería Civil en TI, desarrollador web e ingeniero de software
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiarias&show_icons=true&theme=radical)
