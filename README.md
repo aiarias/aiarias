@@ -38,7 +38,8 @@
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiarias&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aiarias&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aiarias&theme=dark)
+
 
 
 ## 🌐 Socials:
